@@ -55,6 +55,7 @@ This repo will host the examples of data visualizations created by the Research 
 Originally built for Dr. Alfred McEwen, Sarah Mattson, and Nilofur Emami of the University of Arizona's Planetary Image Research Lab.  
 
 * Final web VR version [https://lava-step.glitch.me](https://lava-step.glitch.me)
+* Phone friendly version [https://solar-wolfsbane.glitch.me/](https://solar-wolfsbane.glitch.me/)
 * model files 
   * glb [here](https://drive.google.com/open?id=1fN75AnQdRZNmgPuQZZMYTtzLDAnaOCA6)
   
