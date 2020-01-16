@@ -78,6 +78,12 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
   * [SW-Pots unity compiled file](https://drive.google.com/drive/folders/15X2RFoWnB7OCphnI6eU6I5GFCBrPQgx5?usp=sharing)
   * [SW-pots unity assets](https://drive.google.com/open?id=1YRVeARvfWSjvlJXniAM7Ag2USGwxo81T)
 
+# Plotly
+This section represents a selection of demonstrations of classical plot based data visualization.
+## Heatmaps example
+This example is an Iodide notebook based on an ocean surface temperature data set. The article inspiring the analysis and the data itself is available within the notebook 
+* Iodide Notebook ["Making Soup"](https://alpha.iodide.io/notebooks/3945/?viewMode=report) 
+
 # Data Analysis Examples
 ## Iso-surface Reconstruction
 ### D. Melanogaster Glial Cell
