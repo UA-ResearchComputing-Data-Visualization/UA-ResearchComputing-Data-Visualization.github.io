@@ -1,3 +1,6 @@
+# Data-Visualization-Team-Examples
+This is the central repository of work created or services offered by the Research Technologies Data Visualization Consultant Team at the University of Arizona. To find out more information about who we are, and what else Research Technologies offers to the academic community click on this link https://it.arizona.edu/research
+
 # Drop in Offerings
 
 ## Maptime: making 3d landscape models
@@ -28,7 +31,7 @@ Glitch is another incredible platform for sharing web programming with a snap of
 
 ![](https://drive.google.com/uc?expert=download&id=1gr1N6E1zURNMqfPGNDiqy5QsupdF8SQ9)
 
-**Weaver Science and Engineering Library iSpace / UA Main Library Catalyst Studios **
+**Weaver Science and Engineering Library iSpace / UA Main Library Catalyst Studios**
 
 **Tuesdays 2-4**
 
@@ -38,9 +41,6 @@ Glitch is another incredible platform for sharing web programming with a snap of
 
 
 
-
-# Data-Visualization-Team-Examples
-This repo will host the examples of data visualizations created by the Research Technologies Data Visualization Consultant team at the University of Arizona.
 
 ## 3D
 
@@ -71,7 +71,7 @@ Built originally for Sarah Beth Burger, Department of Psychology, as part of her
 
 ### South West Pots
 
-* Final web VR capable version of scene can be found [here](https://jewel-dingo.glitch.me) on glitch
+* Final web VR capable version of scene can be found [https://jewel-dingo.glitch.me](https://jewel-dingo.glitch.me) on glitch
 * To trigger the VR click the icon in the bottom right corner.  Built originally for Arizona State Museum's Dr. Douglass Gann, Center for Desert Archeology, in 2008.
 
 * Data for pots 
