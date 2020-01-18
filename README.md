@@ -1,5 +1,5 @@
 # Data-Visualization-Team-Examples
-This is the central repository of work created or services offered by the Research Technologies Data Visualization Consultant Team at the University of Arizona. To find out more information about who we are, and what else Research Technologies offers to the academic community click on this link https://it.arizona.edu/research
+This is the central repository of work created or services offered by the Research Technologies Data Visualization Consultant Team at the University of Arizona. To find out more information about who we are, and what else Research Technologies offers to the academic community click on this link [https://it.arizona.edu/research](https://it.arizona.edu/research)
 
 # Drop in Offerings
 
